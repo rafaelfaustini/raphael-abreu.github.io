@@ -58,7 +58,10 @@ p {
 u,
 ins {
   text-decoration: none;
-  border-bottom: 1px solid $text-color;
+  border-bottom: 2px solid fade-out($link-color,0.4);
+  &:hover{
+      border-bottom: 2px solid $pale-yellow;
+  }
   a {
     color: inherit;
   }
