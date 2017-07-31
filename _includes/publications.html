@@ -1,5 +1,34 @@
 {% include base_path %}
 
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+    margin-right: 0%;
+    margin-top: 1.2em;
+    margin-bottom: 1em;
+    border: 1px solid silver;
+    padding: 0em 1em;
+    background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -17,6 +46,17 @@
     {{ post.authors }}, {{ title }} {{ post.venue }}, {{ post.datename }}
     {% if post.prizename %}
       {{ post.prizename }}
+    {% endif %}
+    {% if post.bibtex %}
+    <u><a href="javascript:toggleBibtex('{{ post.bibtexId }}')" href="">[BibTex]</a></u>
+    <div id="bib_{{ post.bibtexId }}" class="bibtex noshow">
+    <pre>
+    {{ post.bibtex }}
+    </pre>
+    </div>
+    {% endif %}
+    {% if post.abstract %}
+    <u><a href="{{ post.abstract }}">[{{ post.abstract }}]</a></u>
     {% endif %}
     {% if post.paperurl %}
     <u><a href="{{ post.paperurl }}">[{{ post.papername }}]</a></u>
