@@ -1,0 +1,52 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<p style="COLOR: black;">
+  <li>
+    {{ post.authors }}, {{ title }} {{ post.venue }}, {{ post.datename }}
+    {% if post.prizename %}
+      {{ post.prizename }}
+    {% endif %}
+    {% if post.paperurl %}
+    <u><a href="{{ post.paperurl }}">[{{ post.papername }}]</a></u>
+    {% endif %}
+    {% if post.supurl %}
+    <u><a href="{{ post.supurl }}">[{{ post.supname }}]</a></u>
+    {% endif %}
+    {% if post.slideurl %}
+    <u><a href="{{ post.slideurl }}">[Slides]</a></u>
+    {% endif %}
+    {% if post.posterurl %}
+    <u><a href="{{ post.posterurl }}">[Poster]</a></u>
+    {% endif %}
+    {% if post.videourl %}
+    <u><a href="{{ post.videourl }}">[{{ post.videoname }}]</a></u>
+    {% endif %}
+    {% if post.dataseturl %}
+    <u><a href="{{ post.dataseturl }}">[{{ post.datasetname }}]</a></u>
+    {% endif %}
+    {% if post.dataset2url %}
+    <u><a href="{{ post.dataset2url }}">[{{ post.dataset2name }}]</a></u>
+    {% endif %}
+    {% if post.dataset3url %}
+    <u><a href="{{ post.dataset3url }}">[{{ post.dataset3name }}]</a></u>
+    {% endif %}
+    {% if post.projecturl %}
+    <u><a href="{{ post.projecturl }}">[{{ post.projectname }}]</a></u>
+    {% endif %}
+    {% if post.codeurl %}
+    <u><a href="{{ post.codeurl }}">[{{ post.codename }}]</a></u>
+    {% endif %}
+  </li>
+</p>
