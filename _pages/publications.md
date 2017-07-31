@@ -14,8 +14,7 @@ author_profile: true
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
 {% capture year %}{{ post.datename | date: '%Y' }}{% endcapture %}
-{% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% if year != written_year %}<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
 
