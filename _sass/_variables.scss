@@ -67,7 +67,7 @@ $code-background-color-dark : $light-gray;
 $text-color                 : white;
 $border-color               : $lighter-gray;
 
-$primary-color              : #edf1f7;
+$primary-color              : $header-white;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -97,7 +97,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $pale-yellow;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
