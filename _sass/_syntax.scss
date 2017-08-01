@@ -16,12 +16,13 @@ div.highlighter-rouge, figure.highlight {
     top: 0;
     right: 0;
     padding: 0.5em;
-    background-color: $lighter-gray;
+    background-color: $pale-yellow;
     content: "\f121";
     font-family: "fontawesome" !important;
     font-size: $type-size-6;
     line-height: 1;
     text-transform: none;
+    text-weight: bold;
     speak: none;
   }
 
