@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Msc. Sutent at CEFET/RJ, working with multimedia immersive and interactive environments, under the supervision of Prof. [Joel dos Santos](http://eic.cefet-rj.br/~jsantos). During my research, i also work on tools of multimedia content classification and automatic generation of hypermedia anchors.
+I'm currently a Msc. Sutent at CEFET/RJ, working with multimedia immersive and interactive environments, under the supervision of Prof. [Joel dos Santos](http://eic.cefet-rj.br/~jsantos). During my research, i also work in tools of multimedia content classification and automatic generation of hypermedia anchors.
 
 Apart from research, i'm also passionate for web development and design. I'm curious to find new solutions to problems and how we can use simple apps to enhance people's existing skills.
 
@@ -27,4 +27,14 @@ Apart from research, i'm also passionate for web development and design. I'm cur
         * Unilasalle-RJ
 
 
+## Selected Publications
+
+
+    * some selected
+
+
+
+## Latest from the blog
+
+    * hera latest posts
 

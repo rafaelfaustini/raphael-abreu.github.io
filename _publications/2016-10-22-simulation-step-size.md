@@ -2,7 +2,7 @@
 title: '"Simulation step size analysis of a whole-cell computational model of bacteria,"'
 collection: publications
 authors: Raphael Abreu, Maria Clicia S. Castro and Fabrício Alves B. Silva
-paperurl: /files/papers/2016-09-25-icip-modeling-keypoints.pdf
+paperurl: https://www.researchgate.net/publication/311483944_Simulation_step_size_analysis_of_a_whole-cell_computational_model_of_bacteria
 papername: Paper
 datename: Sept. 2016
 bibtexId: abreu2016simulation
