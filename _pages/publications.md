@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+{% include publication_headers.html %}
 {% include base_path %}
 
 {% if site.author.googlescholar %}
