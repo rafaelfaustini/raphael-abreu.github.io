@@ -8,7 +8,7 @@ supurl: /files/papers/2016-09-25-icip-modeling-keypoints-sup.pdf
 supname: Supplemental Material
 slideurl: /files/slides/2016-09-25-icip-modeling-keypoints-slides.pdf
 venue: Proc. ICIP
-datename: Sept. 2016
+datename: Sept. 2016,
 bibtexId: Maninis2017,
 bibtex: @article{Maninis2017,
   author = {Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbelez, Pablo and Van Gool, Luc},
