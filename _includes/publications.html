@@ -18,7 +18,7 @@
       {{ post.prizename }}
     {% endif %}
     {% if post.bibtexId %}
-    <u><a href="javascript:toggleBibtex('{{ post.bibtexId }}')" href="">[BibTex]</a></u>
+    <u><a href="javascript:toggleBibtex('{{ post.bibtexId }}')">[BibTex]</a></u>
     <div id="bib_{{ post.bibtexId }}" class="bibtex noshow">
     <pre>
     {{ post.bibtex }}
