@@ -13,7 +13,7 @@ I'm currently a Msc. Sutent at CEFET/RJ, working with multimedia immersive and i
 Apart from research, i'm also passionate for web development and design. I'm curious to find new solutions to problems and how we can use simple apps to enhance people's existing skills.
 
 
-{% include column-info.html %}
+{% include about-column-info.html %}
 
 ## Research Interests
 
