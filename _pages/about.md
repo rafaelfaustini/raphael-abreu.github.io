@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Msc. Sutend at CEFET/RJ, working multimodal interactive environments, under the supervision of Prof. [Joel Dos Santos](http://eic.cefet-rj.br/~jsantos). During my research, i also work on multimedia content classification and automatic generation of hypermedia anchors.
+I'm currently a Msc. Sutent at CEFET/RJ, working multimodal interactive environments, under the supervision of Prof. [Joel dos Santos](http://eic.cefet-rj.br/~jsantos). During my research, i also work on multimedia content classification and automatic generation of hypermedia anchors.
 
 ## Research Interests
 
