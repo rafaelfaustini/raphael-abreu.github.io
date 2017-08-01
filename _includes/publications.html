@@ -11,7 +11,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<p style="COLOR: black;">
+<p>
   <li>
     {{ post.authors }}, {{ title }} {{ post.venue }}, {{ post.datename }}
     {% if post.prizename %}
@@ -19,14 +19,6 @@
     {% endif %}
     {% if post.bibtexId %}
     <u><a href="javascript:toggleBibtex('{{ post.bibtexId }}')">[BibTex]</a></u>
-    <div id="bib_{{ post.bibtexId }}" class="bibtex noshow">
-    <pre>
-    {{ post.bibtex }}
-    </pre>
-    </div>
-    {% endif %}
-    {% if post.abstract %}
-    <u><a href="{{ post.abstract }}">[{{ post.abstract }}]</a></u>
     {% endif %}
     {% if post.paperurl %}
     <u><a href="{{ post.paperurl }}">[{{ post.papername }}]</a></u>
@@ -59,4 +51,13 @@
     <u><a href="{{ post.codeurl }}">[{{ post.codename }}]</a></u>
     {% endif %}
   </li>
+
+{% if post.bibtexId %}
+<div id="bib_{{ post.bibtexId }}" class="bibtex noshow">
+<pre>
+{{ post.bibtex }}
+</pre>
+</div>
+{% if post.bibtexId %}
+
 </p>
