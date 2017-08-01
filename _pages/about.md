@@ -18,4 +18,4 @@ Apart from research, i'm also passionate for web development and design. I'm cur
 ## Recent Publications
 
 Using Abstract Anchors to Aid The Development of Multimedia Applications With Sensory Effects
-[Paper](https://www.researchgate.net/publication/318402213_Using_Abstract_Anchors_to_Aid_The_Development_of_Multimedia_Applications_With_Sensory_Effects) [code](https:www.github.com/raphael-abreu/NCLAAP)
+[[Paper]](https://www.researchgate.net/publication/318402213_Using_Abstract_Anchors_to_Aid_The_Development_of_Multimedia_Applications_With_Sensory_Effects) [[code]](https://www.github.com/raphael-abreu/NCLAAP)
