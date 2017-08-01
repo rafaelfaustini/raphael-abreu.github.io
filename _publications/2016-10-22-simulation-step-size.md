@@ -4,7 +4,6 @@ collection: publications
 authors: Raphael Abreu, Maria Clicia S. Castro and Fabrício Alves B. Silva
 paperurl: /files/papers/2016-09-25-icip-modeling-keypoints.pdf
 papername: Paper
-slideurl: /files/slides/2016-09-25-icip-modeling-keypoints-slides.pdf
 datename: Sept. 2016
 bibtexId: abreu2016simulation
 bibtex: "@inproceedings{abreu2016simulation,
