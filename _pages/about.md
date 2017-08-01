@@ -14,27 +14,27 @@ Apart from research, i'm also passionate for web development and design. I'm cur
 
 ## Research Interests
 
-    * Immersive Multimedia 
-    * Data Analysis and Vizualization
-    * Internet of Things
-    * Machine Learning
+* Immersive Multimedia 
+* Data Analysis and Vizualization
+* Internet of Things
+* Machine Learning
 
 ## Education
 
-    * Msc Computer Science, 2016 - Current
-        * CEFET/RJ
-    * Bsc Information Systems, 2016
-        * Unilasalle-RJ
+* Msc Computer Science, 2016 - Current
+    * CEFET/RJ
+* Bsc Information Systems, 2016
+    * Unilasalle-RJ
 
 
 ## Selected Publications
 
 
-    * some selected
+* some selected
 
 
 
 ## Latest from the blog
 
-    * hera latest posts
+* hera latest posts
 
