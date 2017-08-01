@@ -9,7 +9,7 @@ datename: Sept. 2016
 bibtexId: abreu2016simulation
 bibtex: "@inproceedings{abreu2016simulation,
   title={Simulation step size analysis of a whole-cell computational model of bacteria},
-  author={Abreu, Raphael and Castro, Maria Clicia S and Silva, Fabr{\'\i}cio Alves B},
+  author={Abreu, Raphael and Castro, Maria Clicia S and Silva, Fabricio Alves B},
   booktitle={AIP Conference Proceedings},
   volume={1790},
   number={1},
