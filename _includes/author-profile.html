@@ -114,7 +114,9 @@
         <li><a href="https://researchgate.net/profile/{{ author.researchgate }}"><i class="ai ai-researchgate ai-fw" aria-hidden="true"></i> Researchgate</a></li>
       {% endif %}
        {% if author.lattes %}
-        <li><a href="http://lattes.cnpq.br/{{ author.lattes }}"><i class="ai ai-lattes ai-fw" aria-hidden="true"></i> Lattes</a></li>
+        <li><a href="http://lattes.cnpq.br/{{ author.lattes }}"><svg aria-hidden="true">
+    <use xlink:href="/assets/fonts/lattes-new.svg#lattes"></use>
+  </svg> Lattes</a></li>
       {% endif %}
 
       
