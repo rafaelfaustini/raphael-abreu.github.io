@@ -8,7 +8,9 @@ venue: IJCNN
 datename: July 2018
 bibtexId: abreu2018bimodal
 codeurl : https://github.com/MLRG-CEFET-RJ/bimodal_audioset
+codename : code
 videourl : https://youtu.be/dTVbsootmiA
+videoname : video
 bibtex: "@inproceedings{abreu2018bimodal,
  author = {Raphael Abreu, Joel dos Santos and Eduardo Bezerra},
  title = {A Bimodal Learning Approach to Assist Multi-sensory Effects Synchronization},
