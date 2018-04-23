@@ -7,6 +7,7 @@ papername: Paper
 venue: MMsys
 datename: June. 2018
 bibtexId: mjosue2018
+videourl : https://youtu.be/GsDaW7paW-A
 bibtex: "@inproceedings{josue2018modeling,
  author = {Marina Josué, Raphael Abreu, Fábio Barreto, Douglas Mattos, Glauco Amorim, Joel dos Santos, and Débora Muchaluat-Saade},
  title = {Modeling Sensory Effects as First-Class Entities in Multimedia Applications},
