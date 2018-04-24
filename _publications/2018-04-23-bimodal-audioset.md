@@ -2,7 +2,7 @@
 title: '"A Bimodal Learning Approach to Assist Multi-sensory Effects Synchronization,"'
 collection: publications
 authors: Raphael Abreu, Joel dos Santos and Eduardo Bezerra
-paperurl:
+paperurl: https://www.researchgate.net/publication/324706766_A_Bimodal_Learning_Approach_to_Assist_Multi-sensory_Effects_Synchronization
 papername: Paper
 venue: IJCNN
 datename: July 2018
