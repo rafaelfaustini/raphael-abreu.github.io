@@ -18,4 +18,4 @@ Apart from research, i'm also passionate for web development and design. I'm cur
 ## Recent Publications
 
 A Bimodal Learning Approach to Assist Multi-sensory Effects Synchronization
-[[Paper]]() [[code]](https://github.com/MLRG-CEFET-RJ/bimodal_audioset)
+[[Paper]](https://www.researchgate.net/publication/324706766_A_Bimodal_Learning_Approach_to_Assist_Multi-sensory_Effects_Synchronization) [[code]](https://github.com/MLRG-CEFET-RJ/bimodal_audioset)
