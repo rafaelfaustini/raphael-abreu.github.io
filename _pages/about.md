@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Msc. Sutent at CEFET/RJ, working with multimedia immersive and interactive environments, under the supervision of Prof. [Joel dos Santos](http://eic.cefet-rj.br/~jsantos). During my research, i also work in tools of multimedia content classification and automatic generation of hypermedia anchors.
+I'm currently a Phd. Sutent @ UFF, working with multimedia immersive and interactive environments, under the supervision of Prof. [Débora Christina Muchaluat Saade.](http://www.midiacom.uff.br/debora/). I'm a MSc in computer science. During this time i worked in tools of multimedia content classification and automatic generation of hypermedia anchors.
 
 Apart from research, i'm also passionate for web development and design. I'm curious to find new solutions to problems and how we can use simple apps to enhance people's existing skills.
 
